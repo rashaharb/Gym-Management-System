@@ -6,7 +6,7 @@ DBMS: MySQL & MySQL Data Modeler
 WebApp: Python django
 
 # Sample Queries
-. List all members registered to a workout class.
+. List all members registered to a workout class.\n
 . List all workout classes attended by a specific member.
 . Show equipment used by a particular member.
 . Display all workout classes led by a specific trainer.
